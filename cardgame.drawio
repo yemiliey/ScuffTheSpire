@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T15:16:12.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="5zW0tHlh6WhTn_tS7dXw" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T16:20:24.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0pTeiuF4l457KC8AMTEI" version="21.3.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1723" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1169" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -190,7 +190,7 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-101" value="+ CardList&#xa;+ Energy:&#xa;+ Int CurrentHP&#xa;DrawNum&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="YYJl7h6oAbYJ0HVccWD1-100" vertex="1">
+        <mxCell id="YYJl7h6oAbYJ0HVccWD1-101" value="+ CardList&#xa;+ Energy:&#xa;DrawNum&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="YYJl7h6oAbYJ0HVccWD1-100" vertex="1">
           <mxGeometry y="26" width="188" height="74" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-119" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=8;" parent="YYJl7h6oAbYJ0HVccWD1-100" vertex="1">
@@ -201,7 +201,7 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-136" value="+ Int CurrentHP&#xa;List&lt;Card&gt; Cards" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="YYJl7h6oAbYJ0HVccWD1-135" vertex="1">
+        <mxCell id="YYJl7h6oAbYJ0HVccWD1-136" value="List&lt;Card&gt; CardList" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="YYJl7h6oAbYJ0HVccWD1-135" vertex="1">
           <mxGeometry y="26" width="188" height="74" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-137" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=8;" parent="YYJl7h6oAbYJ0HVccWD1-135" vertex="1">
@@ -232,7 +232,7 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U_VtNrL4AbAIC2CS7Lok-2" value="Dict&lt;BuffID，Buff&gt; BuffList" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="U_VtNrL4AbAIC2CS7Lok-1" vertex="1">
+        <mxCell id="U_VtNrL4AbAIC2CS7Lok-2" value="Dict&lt;BuffID，Buff&gt; BuffList&#xa;int CurrentHP" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="U_VtNrL4AbAIC2CS7Lok-1" vertex="1">
           <mxGeometry y="26" width="188" height="74" as="geometry" />
         </mxCell>
         <mxCell id="U_VtNrL4AbAIC2CS7Lok-3" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=8;" parent="U_VtNrL4AbAIC2CS7Lok-1" vertex="1">
