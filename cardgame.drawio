@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T14:10:34.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xuB2L45KKpteAWEl-bb6" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T15:16:12.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="5zW0tHlh6WhTn_tS7dXw" version="21.3.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -30,79 +30,76 @@
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--3" value="GameObject DrawPile" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="116" width="188" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-6" value="GameObject DiscardPile" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--5" value="GameObject CardsInHand&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="131" width="188" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="zkfFHV4jXpPFQw0GAbJ--5" value="GameObject CardsInHand&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+        <mxCell id="YYJl7h6oAbYJ0HVccWD1-19" value="//" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="146" width="188" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-19" value="//" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+        <mxCell id="YYJl7h6oAbYJ0HVccWD1-8" value="List&lt;Card&gt; DrawPileList" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="161" width="188" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-8" value="List&lt;Card&gt; DrawPileList" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+        <mxCell id="YYJl7h6oAbYJ0HVccWD1-10" value="List&lt;Card&gt; CardsInHandList" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="176" width="188" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-10" value="List&lt;Card&gt; CardsInHandList" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+        <mxCell id="YYJl7h6oAbYJ0HVccWD1-21" value="List&lt;Card&gt; CardsOnBoard&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="191" width="188" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-21" value="List&lt;Card&gt; CardsOnBoard&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+        <mxCell id="YYJl7h6oAbYJ0HVccWD1-22" value="//" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="206" width="188" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-22" value="//" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+        <mxCell id="YYJl7h6oAbYJ0HVccWD1-17" value="Vector3 startPosition&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="221" width="188" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-17" value="Vector3 startPosition&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+        <mxCell id="YYJl7h6oAbYJ0HVccWD1-14" value="bool PlayerTurn&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
           <mxGeometry y="236" width="188" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-14" value="bool PlayerTurn&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="251" width="188" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-13" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="266" width="188" height="8" as="geometry" />
+          <mxGeometry y="251" width="188" height="8" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-23" value="void Awake()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="274" width="188" height="15" as="geometry" />
+          <mxGeometry y="259" width="188" height="15" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-24" value="void Update()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="289" width="188" height="15" as="geometry" />
+          <mxGeometry y="274" width="188" height="15" as="geometry" />
         </mxCell>
         <mxCell id="TjZ7SfH85xgyxYoOFnI6-75" value="void InitBattle()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
-          <mxGeometry y="304" width="188" height="15" as="geometry" />
+          <mxGeometry y="289" width="188" height="15" as="geometry" />
         </mxCell>
         <mxCell id="TjZ7SfH85xgyxYoOFnI6-74" value="//&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="zkfFHV4jXpPFQw0GAbJ--0">
-          <mxGeometry y="319" width="188" height="15" as="geometry" />
+          <mxGeometry y="304" width="188" height="15" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-32" value="void ResetBattle()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="334" width="188" height="15" as="geometry" />
+          <mxGeometry y="319" width="188" height="15" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-26" value="void Shuffle()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="349" width="188" height="15" as="geometry" />
+          <mxGeometry y="334" width="188" height="15" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-58" value="void SortCardsInHand()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="364" width="188" height="16" as="geometry" />
+          <mxGeometry y="349" width="188" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-25" value="void Draw(int)&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="380" width="188" height="15" as="geometry" />
+        <mxCell id="YYJl7h6oAbYJ0HVccWD1-25" value="void Draw()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+          <mxGeometry y="365" width="188" height="15" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-59" value="//&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="395" width="188" height="15" as="geometry" />
+          <mxGeometry y="380" width="188" height="15" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-27" value="void PlayerTurnBegin()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="410" width="188" height="15" as="geometry" />
+          <mxGeometry y="395" width="188" height="15" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-28" value="void PlayerTurnEnd()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="425" width="188" height="15" as="geometry" />
+          <mxGeometry y="410" width="188" height="15" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-31" value="void MoveCardToDrawPile()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="440" width="188" height="16" as="geometry" />
+          <mxGeometry y="425" width="188" height="16" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-56" value="void MoveCardToHand()&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="456" width="188" height="17" as="geometry" />
+          <mxGeometry y="441" width="188" height="17" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-57" value="void MoveCardToBoard()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
-          <mxGeometry y="473" width="188" height="16" as="geometry" />
+          <mxGeometry y="458" width="188" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-62" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;InitBattle&lt;/b&gt;()&lt;br style=&quot;font-size: 10px;&quot;&gt;每次玩家进入新一关时使用，设置新的敌人。shuffle抽牌堆&lt;br&gt;&lt;br&gt;&lt;b&gt;PlayerTurnBegin&lt;/b&gt;&lt;br&gt;先对场上的card call playerTurnBegin。&lt;br&gt;调用draw根据drawNum抽牌（draw会移动）&lt;br&gt;&lt;br&gt;&lt;b&gt;PlayerTurnEnd&lt;/b&gt;&lt;br&gt;对场上牌call card.CardAction(Enemy.EnemyCards, int CardIndex), 再call card.CardActionEnd,&lt;br&gt;&lt;br&gt;&lt;b&gt;EnemyTurnBegin&lt;/b&gt;&lt;br&gt;call enemy.&lt;br&gt;&lt;br&gt;&lt;b&gt;ResetBattle&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;【helper function】&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Shuffle&lt;/b&gt;()&lt;br style=&quot;font-size: 10px;&quot;&gt;对抽牌堆进行洗牌&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Draw&lt;/b&gt;(NumToDraw）&lt;br style=&quot;font-size: 10px;&quot;&gt;玩家抽牌时使用，用MoveCardToHand方程将牌移动到玩家手牌，并用SortCardsInHand将玩家手牌重新排列&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;b&gt;MoveCardToHand&lt;/b&gt;（card）&lt;br&gt;改card位置，改card list，call card.CardMoveToHand&amp;nbsp;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;b&gt;MoveCardToBoard&lt;/b&gt;（int CardIndex, card）&lt;br&gt;根据position改card位置，改list。位置确定后再call card.CardMoveToBoard&lt;br&gt;减少player.energy by card.enegyCost&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;b&gt;MoveCardToDrawPile&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="YYJl7h6oAbYJ0HVccWD1-62" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;InitBattle&lt;/b&gt;()&lt;br style=&quot;font-size: 10px;&quot;&gt;每次玩家进入新一关时使用，设置新的敌人。shuffle抽牌堆&lt;br&gt;&lt;br&gt;&lt;b&gt;PlayerTurnBegin&lt;/b&gt;&lt;br&gt;先对场上的card call TurnBegin。&lt;br&gt;调用draw根据drawNum抽牌（draw会移动）&lt;br&gt;&lt;br&gt;&lt;b&gt;PlayerTurnEnd&lt;/b&gt;&lt;br&gt;对场上牌call card.CardAction(Enemy.EnemyCards, int CardIndex), 再call &lt;font color=&quot;#ff1900&quot;&gt;card.CardActionEnd&lt;/font&gt;,&lt;br&gt;&lt;br&gt;&lt;b&gt;EnemyTurnBegin&lt;/b&gt;&lt;br&gt;call enemy.&lt;br&gt;&lt;br&gt;&lt;b&gt;ResetBattle&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;【helper function】&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Shuffle&lt;/b&gt;()&lt;br style=&quot;font-size: 10px;&quot;&gt;对抽牌堆进行洗牌&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Draw&lt;/b&gt;(）&lt;br style=&quot;font-size: 10px;&quot;&gt;玩家抽牌时使用，根据player.DrawNum抽牌，用MoveCardToHand方程将牌移动到玩家手牌，并用SortCardsInHand将玩家手牌重新排列&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;b&gt;MoveCardToHand&lt;/b&gt;（card）&lt;br&gt;改card位置，改card list，call card.CardMoveToHand&amp;nbsp;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;b&gt;MoveCardToBoard&lt;/b&gt;（int CardIndex, card）&lt;br&gt;根据position改card位置，改list。位置确定后再call card.CardMoveToBoard&lt;br&gt;减少player.energy by card.enegyCost&lt;br&gt;- 根据卡牌enegyCost和玩家energy决定能否移动&lt;br&gt;- 卡牌合并？&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;b&gt;MoveCardToDrawPile&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;text-align: justify; font-size: 10px;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=10;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1130" y="340" width="230" height="700" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-64" value="Card&#xa;&lt;&lt;interface&gt;&gt;" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -193,7 +190,7 @@
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-101" value="+ cardList&#xa;+ energy:&#xa;+ Int CurrentHP&#xa;drawNum&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="YYJl7h6oAbYJ0HVccWD1-100" vertex="1">
+        <mxCell id="YYJl7h6oAbYJ0HVccWD1-101" value="+ CardList&#xa;+ Energy:&#xa;+ Int CurrentHP&#xa;DrawNum&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="YYJl7h6oAbYJ0HVccWD1-100" vertex="1">
           <mxGeometry y="26" width="188" height="74" as="geometry" />
         </mxCell>
         <mxCell id="YYJl7h6oAbYJ0HVccWD1-119" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=8;" parent="YYJl7h6oAbYJ0HVccWD1-100" vertex="1">
@@ -231,7 +228,7 @@
           <mxGeometry x="1569" y="350" width="171" height="450" as="geometry" />
         </mxCell>
         <mxCell id="U_VtNrL4AbAIC2CS7Lok-1" value="Fighter" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="200" y="300" width="188" height="330" as="geometry">
+          <mxGeometry x="321" y="300" width="188" height="280" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -241,24 +238,21 @@
         <mxCell id="U_VtNrL4AbAIC2CS7Lok-3" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=8;" parent="U_VtNrL4AbAIC2CS7Lok-1" vertex="1">
           <mxGeometry y="100" width="188" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="YYJl7h6oAbYJ0HVccWD1-138" value="+ TurnBegin&#xa;+ Action&#xa;+ TurnEnd&#xa;+ BeingAttack&#xa;+ BeingKilled&#xa;+ TakeDamage&#xa;&#xa;+ Ability&#xa;+ AddBuff(Buff)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="U_VtNrL4AbAIC2CS7Lok-1" vertex="1">
+        <mxCell id="YYJl7h6oAbYJ0HVccWD1-138" value="+ TurnBegin&#xa;+ Action&#xa;+ TurnEnd&#xa;+ BeingAttack&#xa;+ BeingKilled&#xa;&#xa;+ TakeDamage&#xa;&#xa;+ Ability&#xa;+ AddBuff(Buff)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="U_VtNrL4AbAIC2CS7Lok-1" vertex="1">
           <mxGeometry y="108" width="188" height="147" as="geometry" />
         </mxCell>
         <mxCell id="U_VtNrL4AbAIC2CS7Lok-6" value="&lt;b&gt;ActiveBuff&lt;/b&gt;()&lt;br&gt;根据buffid不同有不同的效果，如中毒会根据BuffCounter * 基础攻击力造成伤害&lt;br&gt;&lt;br&gt;&lt;b&gt;InitBuff&lt;/b&gt;()&lt;br&gt;对target添加buff，如有同类型buff则添加BuffCounter&lt;br&gt;&lt;br&gt;&lt;b&gt;AddDuplicateBuff&lt;/b&gt;(Buff)&lt;br&gt;新加的buff可能有多层，读取该层数对当前BUffCounter进行修改&lt;br&gt;&lt;br&gt;&lt;b&gt;TargetTurnBegin()&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;TargetTurnEnd()&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;TargetBeingAttack()&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;TargetDead()&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;b&gt;TargetAction()&lt;/b&gt;&lt;br&gt;根据buff类型不同，在不用function里面call ActiveBuff()&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370" y="590" width="155" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="U_VtNrL4AbAIC2CS7Lok-7" value="&lt;b&gt;全局游戏过程&lt;br&gt;init game，board&lt;br&gt;player turn begin&lt;br&gt;draw&lt;br&gt;card move to hand&lt;br&gt;card move to board&lt;br&gt;player turn end&lt;br&gt;card attack&lt;br&gt;enemy turn begin&lt;br&gt;enemy attack&lt;br&gt;enemy turn end&lt;br&gt;[一轮游戏结束]&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="100" y="690" width="160" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="TjZ7SfH85xgyxYoOFnI6-38" value="&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Action&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;伤害敌人，call enemy.takeDamage（ATK）&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;b&gt;AddBuff&lt;/b&gt;(Buff)&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;先判断该buff是否已经在BuffList存在，如存在则call BuffList中存在buff的&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;AddDuplicateBuff&lt;/b&gt;(Buff)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;对当前buff进行修改; 否则则将&lt;span style=&quot;background-color: initial;&quot;&gt;buff加到自己身上&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;b&gt;+ TurnBegin&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;+ Action&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;+ TurnEnd&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;+ BeingAttack&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;+ BeingKilled&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;+ TakeDamage&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;根据Fighter不同，在不同function内call Ability&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="310" width="160" height="330" as="geometry" />
+        <mxCell id="TjZ7SfH85xgyxYoOFnI6-38" value="&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Action&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;伤害敌人，call enemy.takeDamage（ATK）&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;action内有三种&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;- 施展自身在action阶段的buff， call Ability&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;- 为对方施加buff，call CreateBuffToTarget&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;- 攻击对手，减对方HP，call takeDamage&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;b&gt;AddBuff&lt;/b&gt;(Buff)&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;先判断该buff是否已经在BuffList存在，如存在则call BuffList中存在buff的&lt;/div&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;AddDuplicateBuff&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;AddDuplicateBuff&lt;/b&gt;(Buff)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;对当前buff进行修改; 否则则将&lt;span style=&quot;background-color: initial;&quot;&gt;buff加到自己身上&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;b&gt;+ TurnBegin&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;+ Action&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;+ TurnEnd&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;+ BeingAttack&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;+ BeingKilled&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px; font-size: 9px;&quot;&gt;&lt;span style=&quot;font-size: 9px;&quot;&gt;+ TakeDamage&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;根据Fighter不同，在不同function内call Ability&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;BeingAttack会看死没死，死了call BeingKilled&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="161" y="300" width="160" height="480" as="geometry" />
         </mxCell>
         <mxCell id="TjZ7SfH85xgyxYoOFnI6-70" value="GameManager" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="940" y="30" width="250" height="210" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TjZ7SfH85xgyxYoOFnI6-71" value="BattleSceneManager BattleSceneManager&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="TjZ7SfH85xgyxYoOFnI6-70">
+        <mxCell id="TjZ7SfH85xgyxYoOFnI6-71" value="BattleSceneManager BattleSceneManager&#xa;Player Player&#xa;List&lt;Card&gt; DrawPileList" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="TjZ7SfH85xgyxYoOFnI6-70">
           <mxGeometry y="26" width="250" height="74" as="geometry" />
         </mxCell>
         <mxCell id="TjZ7SfH85xgyxYoOFnI6-72" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=8;" vertex="1" parent="TjZ7SfH85xgyxYoOFnI6-70">
@@ -274,7 +268,10 @@
           <mxGeometry x="370" y="590" width="155" height="340" as="geometry" />
         </mxCell>
         <mxCell id="TjZ7SfH85xgyxYoOFnI6-78" value="&lt;b&gt;全局游戏过程&lt;/b&gt;&lt;br&gt;init game，board&lt;br&gt;player turn begin&lt;br&gt;draw&lt;br&gt;card move to hand&lt;br&gt;card move to board&lt;br&gt;player turn end&lt;br&gt;card attack&lt;br&gt;enemy turn begin&lt;br&gt;enemy attack&lt;br&gt;enemy turn end&lt;br&gt;[一轮游戏结束]" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="690" width="160" height="330" as="geometry" />
+          <mxGeometry x="758" y="70" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TjZ7SfH85xgyxYoOFnI6-79" value="&lt;b&gt;问题：&lt;/b&gt;&lt;br&gt;- enemy和player的action是干啥的，啥时候call&lt;br&gt;-&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="960" width="260" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
